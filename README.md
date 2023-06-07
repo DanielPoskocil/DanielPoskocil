@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @DanielPoskocil
+- 👀 I’m interested in learning to code in Python.
